@@ -17,3 +17,11 @@ html {
 *, *::before, *::after {
 	box-sizing: inherit;
 }
+
+.wantedheader {
+	text-align: center;
+}
+
+.badgeicon {
+	max-width: 40px;
+}
