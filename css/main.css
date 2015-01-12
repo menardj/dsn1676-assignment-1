@@ -25,3 +25,12 @@ html {
 .badgeicon {
 	max-width: 40px;
 }
+
+.wantedinfo {
+	background-color: #87714F;
+	color: white;
+}
+
+.rewardheader {
+	text-align: center;
+}
