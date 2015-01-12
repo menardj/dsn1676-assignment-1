@@ -1,4 +1,4 @@
-dsn1676-assignment-1
-====================
+dsn1676-week-1-review
+=====================
 
-Assignment 1: Grids &amp; Typography / review
+Lots of review things.
