@@ -19,8 +19,12 @@ html {
 }
 
 .wantedheader {
-	background: transparent url(".../images/masthead-bg.png");
+	background: transparent url("../images/masthead-bg.png");
 	text-align: center;
+}
+
+.wantedtitle {
+
 }
 
 .badgeicon {
@@ -42,4 +46,11 @@ html {
 
 .rewardheader {
 	text-align: center;
+}
+
+.current {
+	background-image: url("../images/hat.svg"), url("../images/shackles.svg");
+	background-position: center top, center bottom;
+	background-repeat: no-repeat;
+	background-size: 60px 60px;
 }
