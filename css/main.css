@@ -19,11 +19,20 @@ html {
 }
 
 .wantedheader {
+	background: transparent url(".../images/masthead-bg.png");
 	text-align: center;
 }
 
 .badgeicon {
 	max-width: 40px;
+}
+
+.sheriffhat {
+	max-width: 60px;
+}
+
+.shackles {
+	max-width: 60px;
 }
 
 .wantedinfo {
